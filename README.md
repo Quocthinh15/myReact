@@ -20,3 +20,4 @@
 17. [Câu 17] [https://codepen.io/Quocthinh15/pen/Yzvaqrr]
 
 ## Thực hành 
+1. [Bài thực hành làm quen React và tạo component] [
