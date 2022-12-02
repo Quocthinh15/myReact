@@ -23,8 +23,8 @@
 1. [Bài thực hành làm quen React và tạo component] [https://codesandbox.io/s/lam-quen-tao-component-1g3l8b]
 2. [Bài thực hành dùng pros và state] [https://codesandbox.io/s/thuc-hanh-prop-va-state-6sv2ih]
 3. [Bài thực hành 1] [https://codesandbox.io/s/bai-thuc-hanh-7yvufe]
-4. [Bài thực hành 2] [https://codesandbox.io/s/bai-thuc-hanh-2-forked-nk5efn]
-5. [Bài thực hành 3] [https://codesandbox.io/s/bai-thuc-hanh-3-forked-5zvz7y]
-6. [Dự án hoàn chỉnh] [https://codesandbox.io/s/du-an-hoan-chinh-forked-8du242]
+4. [Bài thực hành 2] [https://codesandbox.io/s/bai-thuc-hanh-2-nk5efn]
+5. [Bài thực hành 3] [https://codesandbox.io/s/bai-thuc-hanh-3-5zvz7y]
+6. [Dự án hoàn chỉnh] [https://codesandbox.io/s/du-an-hoan-chinh-8du242]
 
 
