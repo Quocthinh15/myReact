@@ -18,6 +18,7 @@
 15. [Câu 15 cách 2] [https://codepen.io/Quocthinh15/pen/QWxqBKa]
 16. [Câu 16] [https://codepen.io/Quocthinh15/pen/oNyqxeW]
 17. [Câu 17] [https://codepen.io/Quocthinh15/pen/Yzvaqrr]
+18. [Câu 18] [https://codesandbox.io/s/bai-18-3wmbss?file=/src/App.js]
 
 ## Thực hành 
 1. [Bài thực hành làm quen React và tạo component] [https://codesandbox.io/s/lam-quen-tao-component-1g3l8b]
